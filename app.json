@@ -1,0 +1,33 @@
+{
+  "name": "AceIt - Interview Trainer Agent",
+  "version": "1.0",
+  "description": "AI-powered Interview Trainer Agent using IBM Granite and LangFlow with RAG pipeline",
+  "technology_stack": {
+    "platform": "LangFlow",
+    "model_provider": "IBM watsonx.ai",
+    "model_name": "IBM Granite-4.0-8B-Instruct",
+    "rag": "Retrieval-Augmented Generation (RAG)",
+    "vector_db": "FAISS / ChromaDB",
+    "frontend": "Streamlit / React"
+  },
+  "problem_statement_number": "22",
+  "problem_statement_title": "Interview Trainer Agent",
+  "domain": "Career Development & Education",
+  "agents": [
+    "Question Generation Agent",
+    "Answer Evaluation Agent",
+    "Feedback & Tips Agent",
+    "Progress Tracker Agent"
+  ],
+  "features": [
+    "Role-specific question generation",
+    "RAG-based answer retrieval",
+    "Answer evaluation and scoring",
+    "Behavioral and technical preparation",
+    "Interview readiness score dashboard"
+  ],
+  "author": "Kanaka Durga MahaLakshmi Chellingi",
+  "institution": "BVCITS",
+  "internship": "IBM Edunet Foundation",
+  "github": "https://github.com/24h41a6113-maha/Interview-Trainer-Agent"
+}
